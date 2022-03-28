@@ -1,0 +1,15 @@
+good]I'm happy to hear that :D. Tell me more!
+fun]Looks like things are going well! Tell me more!
+sad]I see you've been feeling a bit blue recently. Let's talk about it.
+hope]I want you to know it will get better
+afraid]I'm sure it feels scary, but you can get through this.
+sorry]That's okay! Can I help you with anything else?
+yes]Cool! What's next?
+suffer]That sounds really difficult. I'm sorry you're going through that.
+die]Hmm... That sounds really serious. We can circle back to that
+symptom]People with depression may experience the following: prolonged feelings of sadness, loss of appetite, reduced energy levels, sleeping problems, and difficulties with concentration.
+depression]That sounds concerning.
+information]What would you like to know? I'll try my best to help!
+resource]There are many resources you can access in difficult times! Consult your local psychiatrist, local doctor or talk to a loved one. For immediate support please call 310-6789 for the BC Mental Health Support Line.
+anger]It is normal to feel this way in times on distress. Try meditation or deep breathing exercises to calm down and manage your anger.
+suicide]There is help. If you want to know more don't hesitate to ask!
